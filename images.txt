@@ -9,3 +9,4 @@ redis:latest
 mysql:8.2.0
 cloudflare/cloudflared:latest
 ghcr.io/danny-avila/librechat-dev:latest
+yidadaa/chatgpt-next-web
