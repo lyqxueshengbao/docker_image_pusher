@@ -7,3 +7,4 @@ xhofe/alist:latest
 martialbe/one-api:latest
 redis:latest
 mysql:8.2.0
+cloudflare/cloudflared:latest
