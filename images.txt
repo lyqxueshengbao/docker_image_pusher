@@ -1,7 +1,5 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 martialbe/one-api:latest
@@ -10,3 +8,4 @@ mysql:8.2.0
 cloudflare/cloudflared:latest
 ghcr.io/danny-avila/librechat-dev:latest
 yidadaa/chatgpt-next-web
+ghcr.io/open-webui/open-webui:${WEBUI_DOCKER_TAG-main}
