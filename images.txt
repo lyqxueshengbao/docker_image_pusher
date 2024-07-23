@@ -7,3 +7,7 @@ cloudflare/cloudflared:latest
 ghcr.io/danny-avila/librechat-dev:latest
 yidadaa/chatgpt-next-web
 ghcr.io/open-webui/open-webui:main
+ghcr.io/danny-avila/librechat-rag-api-dev-lite:latest
+ankane/pgvector:latest
+getmeili/meilisearch:v1.7.3
+mongo
